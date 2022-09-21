@@ -8,5 +8,6 @@ Stream Deckを使ってGoogle Chromeで再生されているYoutubeをコント�
 ```console
  -remote-debugging-port=9222
 ```
-3. Google Chromeを再起動します。
+3. Google Chromeを再起動します。<br>
+
 ![img_1.png](img_1.png)
