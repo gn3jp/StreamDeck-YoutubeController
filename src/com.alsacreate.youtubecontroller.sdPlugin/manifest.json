@@ -1,0 +1,172 @@
+{
+  "Actions": [
+    {
+      "Icon": "prev",
+      "Name": "prev",
+      "States": [
+        {
+          "Image": "prev",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "prev",
+      "UUID": "com.alsacreate.youtubecontroller.prev"
+    },
+    {
+      "Icon": "back",
+      "Name": "back",
+      "States": [
+        {
+          "Image": "back",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "back -10",
+      "UUID": "com.alsacreate.youtubecontroller.back"
+    },
+    {
+      "Icon": "play",
+      "Name": "play",
+      "States": [
+        {
+          "Image": "play",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "play",
+      "UUID": "com.alsacreate.youtubecontroller.play"
+    },
+    {
+      "Icon": "skip",
+      "Name": "skip",
+      "States": [
+        {
+          "Image": "skip",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "skip +10",
+      "UUID": "com.alsacreate.youtubecontroller.skip"
+    },
+    {
+      "Icon": "next",
+      "Name": "next",
+      "States": [
+        {
+          "Image": "next",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "next",
+      "UUID": "com.alsacreate.youtubecontroller.next"
+    },
+
+    {
+      "Icon": "volumedown2",
+      "Name": "volume -10",
+      "States": [
+        {
+          "Image": "volumedown2",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "volume -10",
+      "UUID": "com.alsacreate.youtubecontroller.volumemin2"
+    },
+    {
+      "Icon": "volumedown1",
+      "Name": "volume -1",
+      "States": [
+        {
+          "Image": "volumedown1",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "volume -1",
+      "UUID": "com.alsacreate.youtubecontroller.volumemin"
+    },
+    {
+      "Icon": "mute",
+      "Name": "mute",
+      "States": [
+        {
+          "Image": "mute",
+          "TitleAlignment": "middle",
+          "FontSize": "18",
+          "FontFamily": "Arial Black",
+          "TitleColor": "red",
+          "TitleAlignment": "top"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "mute",
+      "UUID": "com.alsacreate.youtubecontroller.mute"
+    },
+    {
+      "Icon": "volumeup1",
+      "Name": "volume +1",
+      "States": [
+        {
+          "Image": "volumeup1",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "volume +1",
+      "UUID": "com.alsacreate.youtubecontroller.volumeplus"
+    },
+    {
+      "Icon": "volumeup2",
+      "Name": "volume +10",
+      "States": [
+        {
+          "Image": "volumeup2",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "volume +10",
+      "UUID": "com.alsacreate.youtubecontroller.volumeplus2"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "alsacreate",
+  "CodePath": "code.html",
+  "Description": "Youtube Controller",
+  "Name": "Youtube Controller",
+  "Category": "Youtube Controller",
+  "Icon": "youtubeIcon",
+  "CategoryIcon": "youtubeIcon",
+  "URL": "https://www.alsacreate.com/",
+  "Version": "1.2.0",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion" : "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion" : "10"
+    }
+  ],
+  "Software":
+  {
+    "MinimumVersion" : "5.0"
+  }
+}
